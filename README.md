@@ -1,6 +1,6 @@
 # Processos
 
-## Exercício 1
+## Projeto 1
 - Criar em Eclipse, um novo Java Project com uma classe chamada RedesController.java no
 package controller e uma classe Main.java no package view.
 - A classe RedesController.java deve ter 3 métodos.
@@ -18,7 +18,7 @@ do ping. O teste de ping deve ser feito com a URL www.google.com.br
 JOptionPane e, dependendo da escolha, instanciar a Classe RedesController.java e chamar o
 método escolhido. A opção de finalizar a aplicação também deve estar disponível.
 
-## Exercício 2
+## Projeto 2
 - Fazer, em java, uma aplicação que liste os processos ativos, permita ao usuário entrar com o
 nome ou o PID do processo e o mate.
 - A aplicação deverá funcionar, minimamente em Windows e Linux.
@@ -34,7 +34,7 @@ e, de acordo com SO, selecione o comando para matar o processo e o finalize
 entrada, verifica o SO e, de acordo com SO, selecione o comando para matar o processo e o
 finalize
 
-## Exercício 3 - Exclusivo para Linux
+## Projeto 3 - Exclusivo para Linux
 - No universo do Sistema operacional Linux existem diversas distribuições. Os comandos Java
 System.getProperty(“os.name”) e System.getProperty(“os.version”) trazem dados sobre o
 Kernel Linux, mas não sobre a distribuição.
