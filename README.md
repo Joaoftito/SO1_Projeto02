@@ -22,7 +22,6 @@ método escolhido. A opção de finalizar a aplicação também deve estar dispo
 - Fazer, em java, uma aplicação que liste os processos ativos, permita ao usuário entrar com o
 nome ou o PID do processo e o mate.
 - A aplicação deverá funcionar, minimamente em Windows e Linux.
-
 - A classe KillController.java deve ter 4 métodos.
   - 1) O primeiro, chamado os, que identifica e retorna o nome do Sistema Operacional (Fazê-lo
 privado)
@@ -45,5 +44,3 @@ privado)
   - 2) O segundo, chamado exibeDistro, que verifica o SO e, se for Linux, selecione o comando para
 exibir as propriedades da distribuição. Deve-se exibir o nome e a versão da distribuição. Caso o
 SO não seja Linux, exibir uma mensagem comunicando.
-
-<img src="ProcessosLinux.png"/>
